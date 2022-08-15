@@ -1,4 +1,3 @@
-//═══════[ THANKS 2K SUBSCRIBER ]════════\\
 /*
 • SCRIPT FULL NO ENC
 • APIKEY PREMIUM
@@ -13,19 +12,19 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285860486479'
-global.ownerNumber = '6285860486479'
+global.meki = '6285692198423'
+global.ownerNumber = '6285692198423'
 global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.owner = ['6285860486479'] 
-global.pemilik = ['6285860486479'] 
-global.premium = ['6285860486479'] 
-global.pengguna = 'syamsul fajri'
-global.botnma = 'Riski BOTZ' 
-global.ownernma = 'Syamsul fajri'
-global.packname = 'Syamsul fajri' 
+global.ownername = '𝙸 𝙰𝚖 M.Alhakim'
+global.owner = ['6285692198423'] 
+global.pemilik = ['6285692198423'] 
+global.premium = ['6285692198423'] 
+global.pengguna = 'M.Alhakim'
+global.botnma = 'Thunder BOTZ' 
+global.ownernma = 'M.Alhakim'
+global.packname = 'M.Alhakim' 
 global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.sessionName = 'rizki bot'
+global.sessionName = 'alhakim bot'
 global.prefa = ['#','!','/','']
 global.sp = '» ' 
 global.mess = {
